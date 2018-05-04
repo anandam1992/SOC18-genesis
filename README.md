@@ -59,8 +59,8 @@ The project will be executed in 2 phases:
 **Phase 1**
 
 **Step 1:**  
-Understand DNIF platform and how it works: https://dnif.it/how-it-works.html
-Installing and getting started with DNIF: https://dnif.it/docs/guides/getting-started/  
+Understand DNIF platform and how it works: https://dnif.it/how-it-works.html </br>
+Installing and getting started with DNIF: https://dnif.it/docs/guides/getting-started/ </br>  
 **Step 2:**  
 Research different data-sets available and choose a data-set from area of interest.	For testing purpose, choose a static data set and it should have required parameters and should follow json, csv or excel format or can be fetched using web scrapping code.  
 **Step 3:**  
